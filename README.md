@@ -1,7 +1,8 @@
 - Hi, I’m @ahmedraufofficial
 - A devoted back-end developer
-- Mainly an expert in Python Applications
+- Mainly an expert in Python Back-end Applications
 - Also well versed with HTML, CSS, JavaScript and JQuery
+- Designing databases from SQL to MOngo Db and Cache's using Redis
 - My other forte's include Data Analysis and Automation
 
 <!---
