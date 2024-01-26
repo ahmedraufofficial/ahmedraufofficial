@@ -4,11 +4,9 @@ I'm an Integrations Engineer with over 3 years of experience in Cloud DevOps and
 
 ## What I Bring to the Table
 
-- **Cloud Expertise**: Proficient in Azure and AWS, I specialize in architecting serverless solutions, configuring event notifications, and managing infrastructure with tools like Terraform and CloudFormation.
+- **Cloud Expertise**: Proficient in Azure and AWS, I specialize in architecting and integrating serverless solutions, configuring event notifications, and managing infrastructure with tools like Terraform and CloudFormation.
 
-- **Programming**: I code in Python, Node.js, TypeScript, and PHP, building applications and automating processes.
-
-- **Database Management**: Skilled in working with MySQL, MariaDB, MongoDB, and Redis for efficient data storage and retrieval.
+- **Programming**: I code in Python, Node.js, TypeScript, and PHP, building serverless and full stack applications.
 
 - **CI/CD and Automation**: I utilize Jenkins, Azure DevOps, and Selenium to ensure seamless integration, testing, and deployment of applications.
 
@@ -16,41 +14,9 @@ I'm an Integrations Engineer with over 3 years of experience in Cloud DevOps and
 
 - **Messaging Systems**: Knowledgeable in Kafka for real-time data streaming.
 
-- **SaaS and Integrations**: I develop Atlassian Forge Apps and integrate various services to streamline workflows.
+- **SaaS and Integrations**: I develop Atlassian Forge Apps, Salesforce lightining components and integrate various other services to streamline workflows.
 
-## Work Experience
-
-### Integrations Engineer at Bespin Global
-
-- Designed serverless architectures on AWS and Azure for automation and efficiency.
-
-- Configured event notifications and triggers across cloud resources using DevOps pipelines.
-
-- Leveraged Terraform for infrastructure replication and effective state management.
-
-- Developed cloud-based solutions integrating third-party services and big data analytics.
-
-- Created Atlassian Forge Apps and integrated chatbot functionality.
-
-- Implemented Kubernetes and Docker deployments with Jenkins.
-
-- Promoted continuous improvement and innovation through cloud and Linux-based services.
-
-### Full Stack Engineer at Binge.ae
-
-- Automated deployment of full-stack applications onto Docker containers using Jenkins pipelines.
-
-- Developed and updated components in Node.js, PHP, and Vue.js frameworks.
-
-- Architected and deployed multi-domain websites on Azure Portal with Nginx.
-
-### Full Stack Developer at Unique Homes Properties
-
-- Designed a Python Flask Server for API handling and user authentication.
-
-- Managed CentOS Virtual Private Server configuration and security.
-
-- Designed and wrote front-end components using Jinja, HTML, CSS, JS, and JQuery.
+- **Database Management**: Skilled in working with MySQL, MariaDB, MongoDB, and Redis for efficient data storage and retrieval.
 
 ## Let's Connect
 
